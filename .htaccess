@@ -1,0 +1,3 @@
+# Activar errores de PHP para desarrollo
+php_flag display_errors on
+php_value error_reporting E_ALL

@@ -1,0 +1,12 @@
+# Archivos de sesión y temporales
+/tmp/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
